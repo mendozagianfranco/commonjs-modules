@@ -1,7 +1,7 @@
-function createObjNames(firstName, LastName) {
+function createObjNames(firstName, lastName) {
     return {
         firstName,
-        LastName,
+        lastName,
     };
 }
 
