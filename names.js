@@ -6,4 +6,4 @@ function createObjNames(firstName, LastName) {
 }
 
 
-MediaSourceHandle.exports = createObjNames;
+module.exports = createObjNames;
